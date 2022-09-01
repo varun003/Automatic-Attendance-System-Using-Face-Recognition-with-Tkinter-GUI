@@ -1,4 +1,4 @@
-# Automatic-Attendance-System-Using-Face-Recognition-with-Tkinter-GUI
+# Automatic Attendance System Using Face Recognition with Tkinter GUI
 
 ### Flow Chart
 
